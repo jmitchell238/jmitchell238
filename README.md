@@ -2,7 +2,7 @@
 
 By day I'm a software engineer at Ramsey Solutions. I'm also the pastor of a small rural church
 in Tennessee. Small churches run on tight budgets and volunteer time, and most church software
-is built and priced for big congregations. So on my own time I build free and low-cost tools for
+is built and priced for big congregations. So on my own time I build cost-effective tools for
 small churches and the pastors who lead them, at **[238 Apps](https://238apps.com)**.
 
 **Building now**
